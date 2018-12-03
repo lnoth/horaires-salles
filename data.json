@@ -1,0 +1,4113 @@
+[  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50  ",
+      "Cours":"Allemand 1  ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"17:00-17:45 17:50-18:35 ",
+      "Cours":"Deutsch Grundkurs 1 ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Maths. 1\/Physique 1\/All. 1 ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"A1009"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"All. 1\/Dét. constr. B\/Phys. 1\/Maths. 1 ",
+      "Salle":"A1009"
+   }
+][  
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Expr. informatique 3D  ",
+      "Salle":"AR025"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Allemand 1  ",
+      "Salle":"AR027"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"AR027"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Expr. informatique 3D ",
+      "Salle":"AR027"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Dévelop. durable 3  ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Méthodologie ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Programmation & TP ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Communication 1 ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Technique numérique 1 ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Programmation & TP ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Expr. informatique 3D ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Téléinformatique 1 ",
+      "Salle":"AR029"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"AR029"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"CVSE 1  ",
+      "Salle":"AR031"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Dévelop. durable 1 ",
+      "Salle":"AR031"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Lineare Algebra 1 ",
+      "Salle":"AR031"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analysis 1 ",
+      "Salle":"AR031"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Kommunikation 1 ",
+      "Salle":"AR031"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Lineare Algebra 1 ",
+      "Salle":"AR031"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Allemand 1  ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Méthodologie ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Programmation & TP ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Téléinformatique 1 ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Programmation & TP ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Technique numérique 1 ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"AR033"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Communication 1 ",
+      "Salle":"AR033"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Techniques de réactions 1  ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Génie chimique 3 ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Modélisation et simulation ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Génie des procédés 3 ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Procédés de séparation ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Biotechnologie ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Chimie physique 3 ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Chimie organique 5 ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Techniques de réactions 1 ",
+      "Salle":"AR035"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Expr. informatique 3D ",
+      "Salle":"AR035"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Dévelop. durable 3  ",
+      "Salle":"AR113"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Dévelop. durable 1 ",
+      "Salle":"AR113"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Construction\/Kunstruktionslehre 1 ",
+      "Salle":"AR113"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Activités interdisciplinaires 1 ",
+      "Salle":"AR113"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Modélisation et calcul info. des structures  ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Constr. acier 1 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Conservation d'ouvrage 1 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Constr. béton 3 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Hydraulique urbaine ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Ouvrages géotechniques ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Routes et transports 1 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Aménagement du territoire ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Constr. bois 1 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35 ",
+      "Cours":"Projet de semestre 3 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Conservation d'ouvrage 1 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Routes et transports 1 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Constr. acier 1 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Ouvrages géotechniques ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Hydraulique urbaine ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Traitement des eaux usées ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Constr. béton 3 ",
+      "Salle":"AR117"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 ",
+      "Cours":"Administration ",
+      "Salle":"AR117"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"CVSE 1  ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Constr. ville ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Statique 1 ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Construction\/Kunstruktionslehre 1 ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Sém. constr.\/Konstruktionssem. 1 ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Théorie de l'archi. 1 ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Gestion et droit 1 ",
+      "Salle":"AR123"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Activités interdisciplinaires 1 ",
+      "Salle":"AR123"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50  ",
+      "Cours":"Se documenter  ",
+      "Salle":"AUDEG"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Matériaux de l'ingénieur 1 ",
+      "Salle":"AUDEG"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Bilan d'énergie ",
+      "Salle":"AUDEG"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Histoire de l'archi. 3 ",
+      "Salle":"AUDEG"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Structure 1 ",
+      "Salle":"AUDEG"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Histoire de l'archi. 5 ",
+      "Salle":"AUDEG"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Histoire de l'architecture 1 ",
+      "Salle":"AUDEG"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Génie des procédés 1  ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse instrumentale ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Génie chimique 1 ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analyse 3 ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Chimie physique 1 ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Régulation 1 ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 3 ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Automatisation 1 ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Analyse spectrale ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Chimie physique 1 ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse instrumentale ",
+      "Salle":"B0004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Chimie organique 3 ",
+      "Salle":"B0004"
+   }
+][  
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"TP Chi phy1\/ Ana instr 2  ",
+      "Salle":"B0008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Chi phy1\/ Ana instr 2 ",
+      "Salle":"B0008"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"MLS-S01  ",
+      "Salle":"B0022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"MLS-S05 ",
+      "Salle":"B0022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"MLS-S04 ",
+      "Salle":"B0022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"MLS-S05 ",
+      "Salle":"B0022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Coachings ",
+      "Salle":"B0022"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"TP Chimie Organique 1  ",
+      "Salle":"B1016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Chimie Organique 1 ",
+      "Salle":"B1016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Chi Org1\/Phy3 ",
+      "Salle":"B1016"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"TP Chimie gén &ana 1  ",
+      "Salle":"B2004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Chimie gén &ana 1 ",
+      "Salle":"B2004"
+   }
+][  
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"TP Chi phy1\/ Ana instr 2  ",
+      "Salle":"B2012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Chi phy1\/ Ana instr 2 ",
+      "Salle":"B2012"
+   }
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"TP Physique 3  ",
+      "Salle":"B3003"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP 31 Physique 3 ",
+      "Salle":"B3003"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Chi Org1\/Phy3 ",
+      "Salle":"B3003"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Physique 3 ",
+      "Salle":"B3003"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP 31 Physique 3 ",
+      "Salle":"B3003"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Physik 1  ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physik 1 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Physique 3 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Physique 3 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physik 1 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Physique 3 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Physik 1 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Electrotechnique ",
+      "Salle":"B3004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3004"
+   }
+][  
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Physique TIC 1  ",
+      "Salle":"B3008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physique TIC 1 ",
+      "Salle":"B3008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Maths. 1\/Physique 1\/All. 1 ",
+      "Salle":"B3008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Construction 3\/Konstruktionslehre 3 ",
+      "Salle":"B3008"
+   }
+][  
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Physique du bâtiment 1  ",
+      "Salle":"B3016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Métrologie ",
+      "Salle":"B3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Gestion et droit 3 ",
+      "Salle":"B3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Physique du bâtiment 3 ",
+      "Salle":"B3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Structure 3 ",
+      "Salle":"B3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Construction 3\/Konstruktionslehre 3 ",
+      "Salle":"B3016"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Physique 1  ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physik 3 ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"ex. renov. énerg.\/energ. Sanierung ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Séminaire S3 ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physique 1 ",
+      "Salle":"B3020"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Electromécanique ",
+      "Salle":"B3020"
+   }
+][  
+
+][  
+
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"Projet d'architecture 1  ",
+      "Salle":"B4022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"B4022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"B4022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Sém. constr.\/Konstruktionssem. 1 ",
+      "Salle":"B4022"
+   }
+][  
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"DAO\/Dessin  ",
+      "Salle":"BEA01"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"BEA01"
+   }
+][  
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"DAO\/Dessin  ",
+      "Salle":"BEA02"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Mathématiques  ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Communication ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Prescriptions de métrage et métrés ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Construction de routes ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analyse de prix ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Installations et programmes ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Statique et RDM ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Inventaire de chantier ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Topométrie ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Conduite des travaux ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Technologie des matériaux ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Conduite du personnel ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Construction du bâtiment ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Allemand ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Machines de chantier ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Mathématiques ",
+      "Salle":"BEA03"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Informatique ",
+      "Salle":"BEA03"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Communication  ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Devis et avant-métrés ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Construction en béton ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Physique du bâtiment ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Installations et programmes ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse de prix ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Fondations, sous-oeuvres ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Statique et rés. mat.\/CVSE ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Conduite des travaux ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Géotechnique ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Comptabilité d'entreprise et économie ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Laboratoire des matériaux ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Construction du bâtiment ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Droit ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Activités interdisciplinaires 1 ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Allemand ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Machines de chantier ",
+      "Salle":"BEA05"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Construction de routes ",
+      "Salle":"BEA05"
+   }
+][  
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"DAO\/Dessin  ",
+      "Salle":"BEA06"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"BEA06"
+   }
+][  
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35  ",
+      "Cours":"Allemand  ",
+      "Salle":"BEA10"
+   }
+][  
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"DAO\/Dessin  ",
+      "Salle":"BEA14"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"BEA14"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Allemand ",
+      "Salle":"BEA14"
+   }
+][  
+
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"TP Rés. et appl. IT\/Syst. d'info  ",
+      "Salle":"C0004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP 52 Trait. signal\/Concep élec\/de sys num ",
+      "Salle":"C0004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Conception électronique ",
+      "Salle":"C0004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Systèmes d'exploitation 1 ",
+      "Salle":"C0004"
+   }
+][  
+
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"TP Systèmes embarqués 1  ",
+      "Salle":"C0016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP 51 Circ. intégrés & Haute fréq\/Info tech ",
+      "Salle":"C0016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Sécurité IT 1 ",
+      "Salle":"C0016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Systèmes embarqués 1 ",
+      "Salle":"C0016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet TIC ",
+      "Salle":"C0016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"TP Tec. tel.\/Sys. emb. ",
+      "Salle":"C0016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Trait. images\/Tec. tel.\/Sys. emb. ",
+      "Salle":"C0016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Embedded Systems 1 ",
+      "Salle":"C0016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"CSEL1 ",
+      "Salle":"C0016"
+   }
+][  
+
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"TP Sécurité IT 1  ",
+      "Salle":"C0022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet TIC ",
+      "Salle":"C0022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 ",
+      "Cours":"IPR ",
+      "Salle":"C0022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"11:05-11:50 13:00-13:45 13:50-14:35 15:00-15:45 ",
+      "Cours":"NSA ",
+      "Salle":"C0022"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"09:05-09:50  ",
+      "Cours":"Administration  ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Réseaux et applications IT 1 ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Systèmes d'information 2 ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Betriebswirtschaft\/Economie d'entreprise ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet de semestre 5 ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Systèmes embarqués 3 ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Traitement images et Audio ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Recherche opérationnelle ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Architectures des réseaux ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Modelisation de processus ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Traitement images & audio ",
+      "Salle":"C1004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Recherche opérationnelle ",
+      "Salle":"C1004"
+   }
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"Téléinformatique  ",
+      "Salle":"C1012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Téléinformatique ",
+      "Salle":"C1012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet de semestre 5 ",
+      "Salle":"C1012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet TIC ",
+      "Salle":"C1012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Tech. num1\/Téléinf1 ",
+      "Salle":"C1012"
+   }
+][  
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"Projet de semestre 5  ",
+      "Salle":"C1016"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"TP Tech. num.\/Teleinfo 1  ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Rés IP1\/Sys d'expl1 ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Num. Technik\/Teleinf. 1 ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Repr de l'info\/Teleinf.1 ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Rés. et appl. IT\/Syst. d'info ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet TIC ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"TP Tec. tel.\/Sys. emb. ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Trait. images\/Tec. tel.\/Sys. emb. ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Architectures des réseaux ",
+      "Salle":"C1022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Tech. num.\/Teleinfo 1 ",
+      "Salle":"C1022"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Communication 1  ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"17:00-17:45 17:50-18:35 ",
+      "Cours":"Betriebswirtschaft ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Chimie analytique 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Lineare Algebra 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Informatique 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Métrologie ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Allgemeine und anorganische Chemie 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Allgemeine und anorganische Chemie 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Chimie organique 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analysis 1 ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 ",
+      "Cours":"Séminaires & Visites \/ Administration ",
+      "Salle":"C2006"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Séminaires & Visites ",
+      "Salle":"C2006"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Initiation à la conception  ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physique et simulation ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Economie d'entreprise ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Statique ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Physique du bâtiment 1 ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analysis 1 ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Statique ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Initiation à la conception ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"C2012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Communication 1 ",
+      "Salle":"C2012"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Gestion de projet  ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Statistiques ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Bases de données 1 ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Mathématiques spécifiques 1 ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Bases de données ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Statique ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Mathématiques spécifiques 1 ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Génie logiciel 1 & TP ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Algorithmique 2 ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"17:00-17:45 ",
+      "Cours":"Administration ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Génie logiciel 1 & TP ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Systèmes embarqués 1 ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Systèmes d'exploitation 1 ",
+      "Salle":"C2018"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Programmation concurrente 1 ",
+      "Salle":"C2018"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50  ",
+      "Cours":"Construction en béton 1  ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Géotechnique, mécanique des sols 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Résistance des matériaux 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Construction et environnement 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Hydraulique générale 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Economie d'entreprise ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Hydraulique générale 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Systèmes d'information du territoire ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Géotechnique, mécanique des sols 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Hydraulik 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Résistance des matériaux 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 3 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Statique ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Gestion de la construction 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Construction en béton 1 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Analyse 3 ",
+      "Salle":"C2022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 ",
+      "Cours":"Administration ",
+      "Salle":"C2022"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Electromécanique  ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Méthodologie ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35 ",
+      "Cours":"Technol. des matériaux 1 & TP ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analysis 3 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Calcul des structures 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analysis 3 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Mensuration 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Communication 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Calcul des structures 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 ",
+      "Cours":"Administration ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"C3006"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Bases environnementales 1 ",
+      "Salle":"C3006"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Methodologie  ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Rés IP1\/Sys d'expl1 ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Mathématiques spécifiques 1 ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Génie logiciel ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Réseaux IP 1 ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"ProjektManagement ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Signaux et systèmes électroniques ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Initiation à la conception ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"17:00-17:45 ",
+      "Cours":"Administration ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Systèmes numériques 1 ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Statistiques ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Systèmes embarqués 1 ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"17:00-17:45 ",
+      "Cours":"Administration ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Systèmes d'exploitation ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Génie logiciel ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Mathématiques spécifiques 1 ",
+      "Salle":"C3012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Gestion de projet ",
+      "Salle":"C3012"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"All. 1\/Photo 1\/Détails constr. A  ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Embedded Systems 1 ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Mathématiques 1 ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Betriebswirtschaft ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Betriebswirtschaft\/Economie d'entreprise ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Projet E-commerce ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Englisch 1 ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35 ",
+      "Cours":"Comptabilité générale ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"E-Marketing ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Analyse financière ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet E-commerce ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Activités interdisciplinaires 1 ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Maths. 1\/Physique 1\/All. 1 ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Phys. 1\/Maths. 1\/Hist. de l'art ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Physique 1 ",
+      "Salle":"C3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"All. 1\/Dét. constr. B\/Phys. 1\/Maths. 1 ",
+      "Salle":"C3016"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"All. 1\/Photo 1\/Détails constr. A  ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Numerische Technik 1 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Teleinformatik 1 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Communication 1 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Programmierung & TP ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Représentation de l'information ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Digitales Entwerfen ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Expr. informatique 3 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Baustatik 1 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Maths. 1\/Physique 1\/All. 1 ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Phys. 1\/Maths. 1\/Hist. de l'art ",
+      "Salle":"C3020"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Programmierung & TP ",
+      "Salle":"C3020"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"All. 1\/Photo 1\/Détails constr. A  ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Grundlagen Umweltwissenschaften 1 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Mathématiques 1 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Expr. informatique 3 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Phys. 1\/Maths. 1\/Hist. de l'art ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Baustatik 1 ",
+      "Salle":"C3022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"All. 1\/Dét. constr. B\/Phys. 1\/Maths. 1 ",
+      "Salle":"C3022"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"All. 1\/Photo 1\/Détails constr. A  ",
+      "Salle":"C4003"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"ex. renov. énerg.\/energ. Sanierung ",
+      "Salle":"C4003"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Architekturgesch. 3 ",
+      "Salle":"C4003"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais\/Archi & immo.\/Déf. ses idées ",
+      "Salle":"C4003"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Kunstbewegungen\/Français ",
+      "Salle":"C4003"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Architekturgeschichte 1 ",
+      "Salle":"C4003"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"Projet d'architecture 1  ",
+      "Salle":"C4008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"C4008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"C4008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Sém. constr.\/Konstruktionssem. 1 ",
+      "Salle":"C4008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"C4008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"C4008"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"Projet d'architecture 1  ",
+      "Salle":"C4016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"C4016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"C4016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Sém. constr.\/Konstruktionssem. 1 ",
+      "Salle":"C4016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"C4016"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"Projet d'architecture 1  ",
+      "Salle":"C4022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"C4022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 1 ",
+      "Salle":"C4022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Sém. constr.\/Konstruktionssem. 1 ",
+      "Salle":"C4022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"C4022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"DAO\/Dessin ",
+      "Salle":"C4022"
+   }
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"TP Matériaux de l'ing.\/Autom. Industr.  ",
+      "Salle":"D0003"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"All. 1\/Photo 1\/Détails constr. A  ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Französisch 1\/Techn. Deutsch 1 ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Matériaux de l'ing.\/Autom. Industr. ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analysis 3 ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Expr. informatique 3 ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"DFS ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Activités interdisciplinaires 1 ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Maths. 1\/Physique 1\/All. 1 ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Phys. 1\/Maths. 1\/Hist. de l'art ",
+      "Salle":"D0004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"All. 1\/Dét. constr. B\/Phys. 1\/Maths. 1 ",
+      "Salle":"D0004"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Anglais 1  ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Französisch 1\/Techn. Deutsch 1 ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Aérodynamique ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet de semestre ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Expr. informatique 3 ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 ",
+      "Cours":"CAO 1 ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Elektrotechnik 1 ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analysis 3 ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:50-14:35 ",
+      "Cours":"Administration ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais\/Archi & immo.\/Déf. ses idées ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"17:00-17:45 17:50-18:35 ",
+      "Cours":"Anglais ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Englisch 1 ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Kunstbewegungen\/Français ",
+      "Salle":"D0008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP GM ",
+      "Salle":"D0008"
+   }
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"TP Matériaux de l'ing.\/Autom. Industr.  ",
+      "Salle":"D0013"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00  ",
+      "Cours":"Moteur à combustion interne 1  ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"11:05-11:50 13:00-13:45 13:50-14:35 ",
+      "Cours":"Transmission hydrostatique 1 ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Automatique ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Economie d'entreprise ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Métrologie ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet P4 ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Analyse de structures FEM ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Mécanique des fluides 2 ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Gestion de production ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Thermodynamique 2 ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Transfert de chaleur et de masse ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Dynamique des systèmes mécaniques 3D ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Schwingungslehre ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Automatique ",
+      "Salle":"D0016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Initiation à la conception ",
+      "Salle":"D0016"
+   }
+][  
+
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"Simulation CFD  ",
+      "Salle":"D1006"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Analyse de structures FEM ",
+      "Salle":"D1006"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 ",
+      "Cours":"CAO 1 ",
+      "Salle":"D1006"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 ",
+      "Cours":"MEMSD ",
+      "Salle":"D1006"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP GM ",
+      "Salle":"D1006"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Conception plastique 1  ",
+      "Salle":"D1014"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Polymères et matériaux innovants ",
+      "Salle":"D1014"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Structures légères et composites 1 ",
+      "Salle":"D1014"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 ",
+      "Cours":"CAO 1 ",
+      "Salle":"D1014"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"17:50-18:35 ",
+      "Cours":"Administration ",
+      "Salle":"D1014"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP GM ",
+      "Salle":"D1014"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Analyse 3  ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Conception de machines ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet de conception P2 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"17:00-17:45 17:50-18:35 ",
+      "Cours":"Eléments de machines 1 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analysis 1 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Kommunikation 1 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Eléments de machines 1 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Résistance des matériaux 2 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Funktionelle Auslegung ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 3 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Automatismes industriels ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Matériaux de l'ingénieur 3 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Conception de machines ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Dynamik von mechanischen Systemen 1 ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Systèmes d'entrainement ",
+      "Salle":"D1022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Résistance des matériaux 2 ",
+      "Salle":"D1022"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Algèbre linéaire 1  ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Signaux & systèmes 1 ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Projektmanagement ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Elektronik 1 ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP Matériaux de l'ing.\/Autom. Industr. ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Elektronik 1 ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet Communication visuelle ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Electricité 2 ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Statistik ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"EX 21 Signaux et systèmes électroniques ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Numerische Mathematik ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Electricité 2 ",
+      "Salle":"D2004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Algorithmen ",
+      "Salle":"D2004"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50  ",
+      "Cours":"Gestion de projet  ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"EX 21 Signaux et systèmes électroniques ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Mathématiques numériques ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Signaux & systèmes 1 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Electronique 1 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"17:00-17:45 ",
+      "Cours":"Administration ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Electronique 1 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 3 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Electricité 2 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Algorithmes ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Statistiques ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 3 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais\/Archi & immo.\/Déf. ses idées ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"17:00-17:45 17:50-18:35 ",
+      "Cours":"Anglais ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Electricité 2 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Hydraulik 1 ",
+      "Salle":"D2008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"All. 1\/Dét. constr. B\/Phys. 1\/Maths. 1 ",
+      "Salle":"D2008"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Traitement du signal  ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Circuits int. et à haute fréquence ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Informatique technique 2 ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Traitement du signal ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35 ",
+      "Cours":"Projet de semestre ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet de semestre ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Circuits int. et à haute fréquence ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Informatique technique 2 ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Conception syst. numériques ",
+      "Salle":"D2012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"TP GM ",
+      "Salle":"D2012"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50  ",
+      "Cours":"Génie logiciel 2  ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Systèmes d'information 2 ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Interface homme-machine 2 ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 ",
+      "Cours":"Programmation C et C++ ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet de semestre ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Systèmes d'information 2 ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Programmation avancée Java ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"17:00-17:45 ",
+      "Cours":"Administration ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Chap. spéc. 1 : NoSQL ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Chap. spéc. 2 : Trait. image et vision ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Chap. spéc. 3 : Adv. Interfaces & Wearable ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Génie logiciel 2 ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Bases de données 2 ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Physique et simulation ",
+      "Salle":"D2018"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Programmation logique ",
+      "Salle":"D2018"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Développement mobile Cross Plate-Forme  ",
+      "Salle":"D2022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Applications mobiles 2 ",
+      "Salle":"D2022"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"09:05-09:50  ",
+      "Cours":"Administration  ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Technique numérique 1 ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Programmation ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35 ",
+      "Cours":"Projet de semestre ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Programmation & TP ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 ",
+      "Cours":"MEMSD ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais\/Archi & immo.\/Déf. ses idées ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Communication 1 ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Méthodologie ",
+      "Salle":"D3004"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Téléinformatique 1 ",
+      "Salle":"D3004"
+   }
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50  ",
+      "Cours":"Englisch 1  ",
+      "Salle":"D3008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"D3008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Mensuration 1 ",
+      "Salle":"D3008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Englisch 1 ",
+      "Salle":"D3008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Lineare Algebra 1 ",
+      "Salle":"D3008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Mathematik 1 ",
+      "Salle":"D3008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"D3008"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Anglais 1  ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Französisch 1\/Techn. Deutsch 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Electricité 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Matériaux ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Systèmes logiques ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Communication 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Electricité 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Englisch 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 ",
+      "Cours":"Techniques des télécoms 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Méthodologie ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"D3012"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Systèmes logiques ",
+      "Salle":"D3012"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Statistik  ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Systèmes logiques ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Mathématiques spécifiques 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Electricité 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Communication 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Electricité 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Anglais 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Analyse 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Algèbre linéaire 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Allemand 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Systèmes logiques ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Englisch 1 ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Matériaux ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Méthodologie ",
+      "Salle":"D3016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"15:00-15:45 ",
+      "Cours":"Administration ",
+      "Salle":"D3016"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Réseaux électriques 1  ",
+      "Salle":"D3020"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Electrom. et entr. él. 1 ",
+      "Salle":"D3020"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Réseaux électriques 1 ",
+      "Salle":"D3020"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Electronique de puis. 1 ",
+      "Salle":"D3020"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"TP Trait. images\/Tec. tel.\/Sys. emb. ",
+      "Salle":"D3020"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Smart Energy Systems 1 ",
+      "Salle":"D3020"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Machines électriques 1 ",
+      "Salle":"D3020"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Automatique 2 ",
+      "Salle":"D3020"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Haute tension 1 ",
+      "Salle":"D3020"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50  ",
+      "Cours":"Programmation  ",
+      "Salle":"D3022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Programmation ",
+      "Salle":"D3022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Modelisation de processus ",
+      "Salle":"D3022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Technologie Internet ",
+      "Salle":"D3022"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Programmation ",
+      "Salle":"D3022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Technologie Internet ",
+      "Salle":"D3022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Technologie Internet ",
+      "Salle":"D3022"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"Projet d'architecture 3  ",
+      "Salle":"D4008"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 3 ",
+      "Salle":"D4008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 3 ",
+      "Salle":"D4008"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4008"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35 ",
+      "Cours":"Expression plastique 3 ",
+      "Salle":"D4008"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Activités interdisciplinaires 1 ",
+      "Salle":"D4008"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"A dispo : ex. interdisciplinaires ",
+      "Salle":"D4008"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"Projet d'architecture 3  ",
+      "Salle":"D4016"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 3 ",
+      "Salle":"D4016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 3 ",
+      "Salle":"D4016"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4016"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35 ",
+      "Cours":"Expression plastique 3 ",
+      "Salle":"D4016"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Activités interdisciplinaires 1 ",
+      "Salle":"D4016"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"A dispo : ex. interdisciplinaires ",
+      "Salle":"D4016"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"Projet d'architecture 3  ",
+      "Salle":"D4022"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 3 ",
+      "Salle":"D4022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 3 ",
+      "Salle":"D4022"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Entwurfslehre 3 ",
+      "Salle":"D4022"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35 ",
+      "Cours":"Expression plastique 3 ",
+      "Salle":"D4022"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"A dispo : ex. interdisciplinaires ",
+      "Salle":"D4022"
+   }
+][  
+
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50  ",
+      "Cours":"Hydraulique urbaine  ",
+      "Salle":"F0003"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Hydraulique générale 1 ",
+      "Salle":"F0003"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Hydraulique générale 1 ",
+      "Salle":"F0003"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Hydraulik 1 ",
+      "Salle":"F0003"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"08:15-09:00 09:05-09:50 ",
+      "Cours":"Hydraulique urbaine ",
+      "Salle":"F0003"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50 ",
+      "Cours":"Traitement des eaux usées ",
+      "Salle":"F0003"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Hydraulik 1 ",
+      "Salle":"F0003"
+   }
+][  
+
+][  
+
+][  
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"10:15-11:00 11:05-11:50  ",
+      "Cours":"Traitement des eaux usées  ",
+      "Salle":"F0019"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35  ",
+      "Cours":"Géotechnique, mécanique des sols 1  ",
+      "Salle":"F0027"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Géotechnique, mécanique des sols 1 ",
+      "Salle":"F0027"
+   }
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 17:00-17:45 17:50-18:35  ",
+      "Cours":"Technol. des matériaux 1 & TP  ",
+      "Salle":"F0101"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Technologie des matériaux ",
+      "Salle":"F0101"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"15:00-15:45 15:50-16:35 ",
+      "Cours":"Laboratoire des matériaux ",
+      "Salle":"F0101"
+   }
+][  
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"TP Matériaux de l'ing.\/Autom. Industr.  ",
+      "Salle":"F1006"
+   }
+][  
+
+][  
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35  ",
+      "Cours":"Projet d'architecture 5  ",
+      "Salle":"FON28"
+   },
+   {  
+      "Jour":"Lundi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Entwurfslehre 5 ",
+      "Salle":"FON28"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Projet d'architecture 5 ",
+      "Salle":"FON28"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"08:15-09:00 09:05-09:50 10:15-11:00 11:05-11:50 ",
+      "Cours":"Entwurfslehre 5 ",
+      "Salle":"FON28"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Projet d'architecture 5 ",
+      "Salle":"FON28"
+   },
+   {  
+      "Jour":"Mardi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Entwurfslehre 5 ",
+      "Salle":"FON28"
+   },
+   {  
+      "Jour":"Mercredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"A dispo : ex. interdisciplinaires ",
+      "Salle":"FON28"
+   },
+   {  
+      "Jour":"Jeudi ",
+      "Heures":"13:00-13:45 13:50-14:35 ",
+      "Cours":"Structure 3 ",
+      "Salle":"FON28"
+   },
+   {  
+      "Jour":"Vendredi ",
+      "Heures":"13:00-13:45 13:50-14:35 15:00-15:45 15:50-16:35 ",
+      "Cours":"Expression plast. et design 5 ",
+      "Salle":"FON28"
+   }
+]
