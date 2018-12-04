@@ -10,7 +10,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-
     <div class="container">
         <div class="row justify-content-center align-items-center mt-2">
             <h1 id="page_title">Horaires-heia.ch</h1>
@@ -19,7 +18,7 @@
 
     <div class="container">
         <div class="row justify-content-center align-items-center mt-2">
-            <form>
+            <form id="researchForm">
                 <div class="form-group">
                     <div class="form-check form-check-inline">
                         <input class="form-check-input" type="checkbox" id="perolles" value="perolles">
@@ -34,9 +33,85 @@
                         <label class="form-check-label" for="autre">Autres</label>
                     </div>
                 </div>
+
+                <div class="form-group">
+                    <center>
+                        <label for="startHour">Heure de début</label>
+                    </center>
+                    <select class="form-control" id="startHour">
+                        <option id="startHour_1" value="8:15">8:15</option>
+                        <option id="startHour_2" value="9:00">9:00</option>
+                        <option id="startHour_3" value="9:05">9:05</option>
+                        <option id="startHour_4" value="9:50">9:50</option>
+                        <option id="startHour_5" value="10:15">10:15</option>
+                        <option id="startHour_6" value="11:00">11:00</option>
+                        <option id="startHour_7" value="11:05">11:05</option>
+                        <option id="startHour_8" value="11:50">11:50</option>
+                        <option id="startHour_9" value="13:00">13:00</option>
+                        <option id="startHour_10" value="13:45">13:45</option>
+                        <option id="startHour_11" value="13:50">13:50</option>
+                        <option id="startHour_12" value="14:35">14:35</option>
+                        <option id="startHour_13" value="15:00">15:00</option>
+                        <option id="startHour_14" value="15:45">15:45</option>
+                        <option id="startHour_15" value="15:50">15:50</option>
+                        <option id="startHour_16" value="16:35">16:35</option>
+                        <option id="startHour_17" value="17:00">17:00</option>
+                        <option id="startHour_18" value="17:45">17:45</option>
+                        <option id="startHour_19" value="17:50">17:50</option>
+                        <option id="startHour_20" value="18:35">18:35</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <center>
+                        <label for="endHour">Heure de fin</label>
+                    </center>
+                    <select class="form-control" id="endHour">
+                        <option id="endHour_1" value="8:15">8:15</option>
+                        <option id="endHour_2" value="9:00">9:00</option>
+                        <option id="endHour_3" value="9:05">9:05</option>
+                        <option id="endHour_4" value="9:50">9:50</option>
+                        <option id="endHour_5" value="10:15">10:15</option>
+                        <option id="endHour_6" value="11:00">11:00</option>
+                        <option id="endHour_7" value="11:05">11:05</option>
+                        <option id="endHour_8" value="11:50">11:50</option>
+                        <option id="endHour_9" value="13:00">13:00</option>
+                        <option id="endHour_10" value="13:45">13:45</option>
+                        <option id="endHour_11" value="13:50">13:50</option>
+                        <option id="endHour_12" value="14:35">14:35</option>
+                        <option id="endHour_13" value="15:00">15:00</option>
+                        <option id="endHour_14" value="15:45">15:45</option>
+                        <option id="endHour_15" value="15:50">15:50</option>
+                        <option id="endHour_16" value="16:35">16:35</option>
+                        <option id="endHour_17" value="17:00">17:00</option>
+                        <option id="endHour_18" value="17:45">17:45</option>
+                        <option id="endHour_19" value="17:50">17:50</option>
+                        <option id="endHour_20" value="18:35">18:35</option>
+                    </select>
+                </div>
+
+                <center>
+                    <button type="submit" class="btn btn-secondary" id="submitButton">Recherche</button>
+                </center>
             </form>
         </div>
     </div>
+    <div class="container">
+        <div class="row justify-content-center align-items-center mt-4">
+            <div class="alert alert-danger" id="submitError" style="display: none"></div>
+        </div>
+    </div>
 
+    <div class="container" id="containerLoader" style="display: none;">
+        <center>
+            <div class="row justify-content-center align-items-center" id="loaderDiv">
+                <div class="loader"></div>
+                <p>Recherche des salles...</p>
+            </div>
+        </center>
+    </div>
+
+
+    <script src="js/app.js"></script>
 </body>
 </html>
