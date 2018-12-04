@@ -1,21 +1,63 @@
-//prevent the page refresh
-$("#researchForm").submit(function(e) {
-    e.preventDefault();
+$('.timeslot').click(function() {
+    let timeslot_id = this.firstChild.id.replace('timeslot_', '');
+    let el = $(this.firstChild);
+    let period_selected = $('.period_selected');
+
+    if (period_selected.length === 0) {
+        el.addClass('period_selected');
+        $('#search_button').prop('disabled', false);
+    }
+
+    else if (el.hasClass('period_selected') || period_selected.length > 1) {
+        period_selected.each(function() {
+            $(this).removeClass('period_selected');
+        });
+        $('#search_button').prop('disabled', true);
+    }
+
+    else {
+        if (period_selected.length === 1) {
+            let ts = [timeslot_id, period_selected.attr('id').replace('timeslot_', '')].sort();
+
+            for (let i = ts[0]; i <= ts[1]; i++) {
+                $('#timeslot_' + i).addClass('period_selected');
+            }
+            $('#search_button').prop('disabled', false);
+        }
+    }
 });
 
-//Do something when the user tries to submit the form
-$(document).on('click','#submitButton',function(){
+$('#period_reset').click(function() {
+    $('.period_selected').each(function() {
+        $(this).removeClass('period_selected');
+    });
+    $('#search_button').prop('disabled', true);
+});
 
-    let idStartHour = $("#startHour").children(":selected").attr("id");
-    let idEndHour = $("#endHour").children(":selected").attr("id");
-    let numberSelectedStartHour = idStartHour.split("_")[1];
-    let numberSelectedEndHour = idEndHour.split("_")[1];
+$('#search_button').click(function(e) {
+    e.preventDefault();
+    let period_selected = $('.period_selected');
+    let first_period = period_selected.first().attr('id').replace('timeslot_', '');
+    let last_period = period_selected.last().attr('id').replace('timeslot_', '');
+    let weekday_id = $('#weekday_id').val();
 
-    if (numberSelectedStartHour >= numberSelectedEndHour){
-        $("#submitError").text("Veuillez selectionner des heures cohérentes");
-        $("#submitError").css("display","block");
-    }else {
-        $("#containerLoader").css("display","block");
-
-    }
+    jQuery.ajax({
+        url: window.location.protocol + '//' + window.location.host + '/horaires-salles/ajax_result.php',
+        type: 'GET',
+        data: {
+            'f': first_period,
+            'l': last_period,
+            'wd': weekday_id,
+        },
+    })
+    .done(function(data, textStatus, jqXHR) {
+        let result = JSON.parse(data);
+        result.forEach(function(element){
+            $("#result_table").append("<tr><td>" + element["name"] +"</td></tr>")
+        });
+        $("#result_table").show();
+    })
+    .fail(function(jqXHR, textStatus, errorThrown) {
+        console.log(errorThrown);
+    })
 });
