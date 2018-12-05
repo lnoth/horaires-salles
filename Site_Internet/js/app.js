@@ -52,10 +52,12 @@ $('#search_button').click(function(e) {
     })
     .done(function(data, textStatus, jqXHR) {
         let result = JSON.parse(data);
+        let result_table = $('#result_table')
+        result_table.html('<tr><th>Nom de la salle</th></tr>');
         result.forEach(function(element){
-            $("#result_table").append("<tr><td>" + element["name"] +"</td></tr>")
+            result_table.append("<tr><td>" + element["name"] +"</td></tr>")
         });
-        $("#result_table").show();
+        result_table.show();
     })
     .fail(function(jqXHR, textStatus, errorThrown) {
         console.log(errorThrown);
