@@ -42,7 +42,7 @@ $('#search_button').click(function(e) {
     let weekday_id = $('#weekday_id').val();
 
     jQuery.ajax({
-        url: window.location.protocol + '//' + window.location.host + '/horaires-salles/ajax_result.php',
+        url: window.location.protocol + '//' + window.location.host + '/ajax_result.php',
         type: 'GET',
         data: {
             'f': first_period,
