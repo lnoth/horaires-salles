@@ -8,12 +8,12 @@
             <li class="nav-item active">
                 <a class="nav-link" href="#">Horaire par classe</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
                 <a class="nav-link" href="#">Disponibilité des salles</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Disponibilité des professeurs</a>
-            </li>
+            </li>-->
         </ul>
     </div>
 </nav>

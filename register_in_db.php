@@ -1,38 +1,38 @@
 <?php
 
-include('connect.php');
+include('db.php');
 
 $data = array();
 eval('$data = ' . file_get_contents('raw_data.txt') . ';');
 
 $days = array();
-foreach($bdd->query('SELECT weekday_id, name_fr FROM weekdays') as $result) {
+foreach($db->query('SELECT weekday_id, name_fr FROM weekdays') as $result) {
     $days[$result['name_fr']] = intval($result['weekday_id']);
 }
 
 $timeslots = array();
 $tr_fields = ['start_hour', 'start_minute', 'end_hour', 'end_minute'];
-foreach($bdd->query('SELECT * FROM timeslots') as $result) {
+foreach($db->query('SELECT * FROM timeslots') as $result) {
     array_push($timeslots, array_map('intval', $result));
 }
 
 $rooms = array();
-foreach($bdd->query('SELECT room_id, name FROM rooms') as $result) {
+foreach($db->query('SELECT room_id, name FROM rooms') as $result) {
     $rooms[$result['name']] = intval($result['room_id']);
 }
 
 $courses = array();
-foreach($bdd->query('SELECT course_id, name FROM courses') as $result) {
+foreach($db->query('SELECT course_id, name FROM courses') as $result) {
     $courses[$result['name']] = intval($result['course_id']);
 }
 
 $classes = array();
-foreach($bdd->query('SELECT class_id, name FROM classes') AS $result) {
+foreach($db->query('SELECT class_id, name FROM classes') AS $result) {
     $classes[$result['name']] = intval($result['class_id']);
 }
 
 $teachers = array();
-foreach($bdd->query('SELECT teacher_id, acronym FROM teachers') AS $result) {
+foreach($db->query('SELECT teacher_id, acronym FROM teachers') AS $result) {
     $teachers[$result['acronym']] = intval($result['teacher_id']);
 }
 
@@ -100,6 +100,12 @@ foreach($data as $r) {
     }
 }
 
+// delete data
+$db->query('DELETE FROM timeslots_registrations');
+$db->query('DELETE FROM timeslots_classes');
+$db->query('DELETE FROM timeslots_teachers');
+$db->query('DELETE FROM registrations');
+
 // update registrations in db
 $registrations_query = 'INSERT INTO registrations(registration_id, weekday_id, room_id, course_id) VALUES ';
 $reg_simple_array = array();
@@ -112,8 +118,35 @@ foreach ($registrations as $key=>$registration) {
     }
 }
 
-$bdd->query('DELETE FROM registrations');
-$bdd->prepare($registrations_query)->execute($reg_simple_array);
+// test
+function boundQuery($db, $query, $values) {
+    $ret = preg_replace_callback(
+        "#(\\?)(?=(?:[^']|['][^']*')*$)#ms",
+        // Notice the &$values - here, we want to modify it.
+        function($match) use ($db, &$values) {
+            if (empty($values)) {
+                throw new PDOException('not enough values for query');
+            }
+            $value  = array_shift($values);
+
+            // Handle special cases: do not quote numbers, booleans, or NULL.
+            if (is_null($value)) return 'NULL';
+            if (true === $value) return 'true';
+            if (false === $value) return 'false';
+            if (is_numeric($value)) return $value;
+
+            // Handle default case with $db charset
+            return $db->quote($value);
+        },
+        $query
+    );
+    if (!empty($values)) {
+        throw new PDOException('not enough placeholders for values');
+    }
+    return $ret;
+}
+
+$db->prepare($registrations_query)->execute($reg_simple_array);
 
 // update timeslots_registrations in db
 $tr_query = 'INSERT INTO timeslots_registrations(timeslot_id, registration_id) VALUES ';
@@ -127,8 +160,7 @@ foreach ($timeslots_registrations as $key=>$tr) {
     }
 }
 
-$bdd->query('DELETE FROM timeslots_registrations');
-$bdd->prepare($tr_query)->execute($tr_simple_array);
+$db->prepare($tr_query)->execute($tr_simple_array);
 
 // update timeslots_classes in db
 $tc_query = 'INSERT INTO timeslots_classes(class_id, registration_id) VALUES ';
@@ -142,9 +174,7 @@ foreach ($timeslots_classes as $key=>$tc) {
     }
 }
 
-$bdd->query('DELETE FROM timeslots_classes');
-$bdd->prepare($tc_query)->execute($tc_simple_array);
-
+$db->prepare($tc_query)->execute($tc_simple_array);
 
 // update timeslots_teachers in db
 $tt_query = 'INSERT INTO timeslots_teachers(teacher_id, registration_id) VALUES ';
@@ -158,5 +188,4 @@ foreach ($timeslots_teachers as $key=>$tt) {
     }
 }
 
-$bdd->query('DELETE FROM timeslots_teachers');
-$bdd->prepare($tt_query)->execute($tt_simple_array);
+$db->prepare($tt_query)->execute($tt_simple_array);

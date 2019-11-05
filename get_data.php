@@ -1,5 +1,5 @@
 <?php
-include('connect.php');
+include('db.php');
 
 function remove_spaces($s) {
     $s2 = str_replace(chr(160), '', $s);
@@ -8,7 +8,7 @@ function remove_spaces($s) {
 }
 
 $roomTable = array();
-foreach($bdd->query('SELECT name FROM rooms') as $result) {
+foreach($db->query('SELECT name FROM rooms') as $result) {
     array_push($roomTable, $result['name']);
 }
 
@@ -53,7 +53,7 @@ foreach ($roomTable as $keyRoomTable=>$elementRoomTable){
 
     // stop if fails
     if (!$response) {
-        die('Error: "' . curl_error($ch) . '" - Code: ' . curl_errno($ch));
+        die('Error : "' . curl_error($ch) . '" - Code: ' . curl_errno($ch));
     }
 
     // close curl resource to free up system resources
