@@ -1,0 +1,850 @@
+array (
+  0 => 
+  array (
+    'teacher_id' => '1698',
+    'name' => 'Sébastien Chaperon',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'sebastien.chaperon@hefr.ch',
+  ),
+  1 => 
+  array (
+    'teacher_id' => '1699',
+    'name' => 'César Conforti',
+    'desktop' => 'D40.03',
+    'phone' => '+41 26 429 66 98',
+    'email' => 'cesar.conforti@hefr.ch',
+  ),
+  2 => 
+  array (
+    'teacher_id' => '1700',
+    'name' => 'Peter Giezendanner',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'peter.giezendanner@hefr.ch',
+  ),
+  3 => 
+  array (
+    'teacher_id' => '1701',
+    'name' => 'Pascal Clozza',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'pascal.clozza@hefr.ch',
+  ),
+  4 => 
+  array (
+    'teacher_id' => '1702',
+    'name' => 'Julien Esteulle',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'julien.esteulle@hefr.ch',
+  ),
+  5 => 
+  array (
+    'teacher_id' => '1703',
+    'name' => 'Tamara Lema',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'tamara.lema@hefr.ch',
+  ),
+  6 => 
+  array (
+    'teacher_id' => '1704',
+    'name' => 'Sébastien Pochon',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'sebastien.pochon@hefr.ch',
+  ),
+  7 => 
+  array (
+    'teacher_id' => '1706',
+    'name' => 'Lene Heller',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'lene.heller@hefr.ch',
+  ),
+  8 => 
+  array (
+    'teacher_id' => '1707',
+    'name' => 'Jean-Pierre Dewarrat',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'jean-pierre.dewarrat@hefr.ch',
+  ),
+  9 => 
+  array (
+    'teacher_id' => '1708',
+    'name' => 'Pascal Heyraud',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'pascal.heyraud@hefr.ch',
+  ),
+  10 => 
+  array (
+    'teacher_id' => '1729',
+    'name' => 'Julien Grisel',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'julien.grisel@hefr.ch',
+  ),
+  11 => 
+  array (
+    'teacher_id' => '1730',
+    'name' => 'Claude Anne-Marie Matter Galletti',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'claudeanne-marie.mattergalletti@hefr.ch',
+  ),
+  12 => 
+  array (
+    'teacher_id' => '1731',
+    'name' => 'Claudia Schermesser',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'claudia.schermesser@hefr.ch',
+  ),
+  13 => 
+  array (
+    'teacher_id' => '1732',
+    'name' => 'Giacomo Guidotti',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'giacomo.guidotti@hefr.ch',
+  ),
+  14 => 
+  array (
+    'teacher_id' => '1733',
+    'name' => 'Paul Humbert',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'paul.humbert@hefr.ch',
+  ),
+  15 => 
+  array (
+    'teacher_id' => '1734',
+    'name' => 'Rolf Seiler',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'rolf.seiler@hefr.ch',
+  ),
+  16 => 
+  array (
+    'teacher_id' => '1738',
+    'name' => 'Luca Tassinari',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'luca.tassinari@hefr.ch',
+  ),
+  17 => 
+  array (
+    'teacher_id' => '1739',
+    'name' => 'Clément Protté',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'clement.protte@hefr.ch',
+  ),
+  18 => 
+  array (
+    'teacher_id' => '1740',
+    'name' => 'Yves Milani',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'yves.milani@hefr.ch',
+  ),
+  19 => 
+  array (
+    'teacher_id' => '1741',
+    'name' => 'Stefan Kuriger',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'stefan.kuriger@hefr.ch',
+  ),
+  20 => 
+  array (
+    'teacher_id' => '1742',
+    'name' => 'Nicolas Grandjean',
+    'desktop' => 'C40.21',
+    'phone' => '+41 26 429 66 92',
+    'email' => 'nicolas.grandjean@hefr.ch',
+  ),
+  21 => 
+  array (
+    'teacher_id' => '1743',
+    'name' => 'Alexandre Guerry',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'alexandre.guerry@hefr.ch',
+  ),
+  22 => 
+  array (
+    'teacher_id' => '1744',
+    'name' => 'Maxime Rossier',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'maxime.rossier@hefr.ch',
+  ),
+  23 => 
+  array (
+    'teacher_id' => '1745',
+    'name' => 'Christian Risse',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'christian.risse@hefr.ch',
+  ),
+  24 => 
+  array (
+    'teacher_id' => '1751',
+    'name' => 'Michael Pfister',
+    'desktop' => 'D40.21',
+    'phone' => '+41 26 429 69 22',
+    'email' => 'michael.pfister@hefr.ch',
+  ),
+  25 => 
+  array (
+    'teacher_id' => '1752',
+    'name' => 'Fabienne Favre Boivin',
+    'desktop' => 'D40.07',
+    'phone' => '+41 26 429 66 87',
+    'email' => 'fabienne.favre@hefr.ch',
+  ),
+  26 => 
+  array (
+    'teacher_id' => '1753',
+    'name' => 'Jean-Marc Ribi',
+    'desktop' => 'D40.07',
+    'phone' => '+41 26 429 66 84',
+    'email' => 'jean-marc.ribi@hefr.ch',
+  ),
+  27 => 
+  array (
+    'teacher_id' => '1756',
+    'name' => 'Vincent Labiouse',
+    'desktop' => 'D40.21',
+    'phone' => '+41 26 429 69 24',
+    'email' => 'vincent.labiouse@hefr.ch',
+  ),
+  28 => 
+  array (
+    'teacher_id' => '1757',
+    'name' => 'Paul-Henri Marguet',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'paul-henri.marguet@hefr.ch',
+  ),
+  29 => 
+  array (
+    'teacher_id' => '1758',
+    'name' => 'Blaise Fleury',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'blaise.fleury@hefr.ch',
+  ),
+  30 => 
+  array (
+    'teacher_id' => '1760',
+    'name' => 'Stéphane Commend',
+    'desktop' => 'D40.13',
+    'phone' => '+41 26 429 66 83',
+    'email' => 'stephane.commend@hefr.ch',
+  ),
+  31 => 
+  array (
+    'teacher_id' => '1761',
+    'name' => 'Laure Dupuits',
+    'desktop' => 'D10.15',
+    'phone' => '+41 26 429 68 40',
+    'email' => 'laure.dupuits@hefr.ch',
+  ),
+  32 => 
+  array (
+    'teacher_id' => '1763',
+    'name' => 'Joël Kuster',
+    'desktop' => 'D10.05',
+    'phone' => '+41 26 429 69 58',
+    'email' => 'joel.kuster@hefr.ch',
+  ),
+  33 => 
+  array (
+    'teacher_id' => '1803',
+    'name' => 'Mattias Boegli',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'mattias.boegli@hefr.ch',
+  ),
+  34 => 
+  array (
+    'teacher_id' => '1804',
+    'name' => 'Adrian Kramp',
+    'desktop' => 'C40.21',
+    'phone' => '+41 26 429 66 88',
+    'email' => 'adrian.kramp@hefr.ch',
+  ),
+  35 => 
+  array (
+    'teacher_id' => '1805',
+    'name' => 'Stéphan Buchhofer',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'stephan.buchhofer@hefr.ch',
+  ),
+  36 => 
+  array (
+    'teacher_id' => '1806',
+    'name' => 'Philipe Gloor',
+    'desktop' => 'C40.21',
+    'phone' => '',
+    'email' => 'philipe.gloor@hefr.ch',
+  ),
+  37 => 
+  array (
+    'teacher_id' => '1807',
+    'name' => 'Simon Chessex',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'simon.chessex@hefr.ch',
+  ),
+  38 => 
+  array (
+    'teacher_id' => '1808',
+    'name' => 'Hiéronyme Lacroix',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'hieronyme.lacroix@hefr.ch',
+  ),
+  39 => 
+  array (
+    'teacher_id' => '1809',
+    'name' => 'Romain Kilchherr',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'romain.kilchherr@hefr.ch',
+  ),
+  40 => 
+  array (
+    'teacher_id' => '1810',
+    'name' => 'Olivier Galletti',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'olivier.galletti@hefr.ch',
+  ),
+  41 => 
+  array (
+    'teacher_id' => '1811',
+    'name' => 'Jean-Luc Rime',
+    'desktop' => 'B40.11',
+    'phone' => '',
+    'email' => 'jean-luc.rime@hefr.ch',
+  ),
+  42 => 
+  array (
+    'teacher_id' => '1812',
+    'name' => 'Stefanie Schwab',
+    'desktop' => 'B40.11',
+    'phone' => '',
+    'email' => 'stefanie.schwab@hefr.ch',
+  ),
+  43 => 
+  array (
+    'teacher_id' => '1813',
+    'name' => 'Ana Spasojevic',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'ana.spasojevic@hefr.ch',
+  ),
+  44 => 
+  array (
+    'teacher_id' => '1814',
+    'name' => 'Adrian Tschopp',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'adrian.tschopp@hefr.ch',
+  ),
+  45 => 
+  array (
+    'teacher_id' => '1815',
+    'name' => 'Anne Faure',
+    'desktop' => 'B40.11',
+    'phone' => '',
+    'email' => 'anne.faure@hefr.ch',
+  ),
+  46 => 
+  array (
+    'teacher_id' => '1816',
+    'name' => 'Sébastien Mettraux',
+    'desktop' => 'B40.11',
+    'phone' => '',
+    'email' => 'sebastien.mettraux@hefr.ch',
+  ),
+  47 => 
+  array (
+    'teacher_id' => '1817',
+    'name' => 'Daniela Schönbächler',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'daniela.schoenbaechler@hefr.ch',
+  ),
+  48 => 
+  array (
+    'teacher_id' => '1907',
+    'name' => 'Luca Giorgi',
+    'desktop' => 'G00.16',
+    'phone' => '',
+    'email' => 'luca.giorgi@hefr.ch',
+  ),
+  49 => 
+  array (
+    'teacher_id' => '1913',
+    'name' => 'Gaëlle Girard',
+    'desktop' => 'BF_206',
+    'phone' => '+41 26 429 66 35',
+    'email' => 'gaelle.girard@hefr.ch',
+  ),
+  50 => 
+  array (
+    'teacher_id' => '1914',
+    'name' => 'Jean-Marc Boéchat',
+    'desktop' => 'BF123_1A',
+    'phone' => '+41 26 429 66 62',
+    'email' => 'jean-marc.boechat@hefr.ch',
+  ),
+  51 => 
+  array (
+    'teacher_id' => '1916',
+    'name' => 'Benoît Grelier',
+    'desktop' => 'D10.15',
+    'phone' => '+41 26 429 66 07',
+    'email' => 'benoit.grelier@hefr.ch',
+  ),
+  52 => 
+  array (
+    'teacher_id' => '1918',
+    'name' => 'Sebastian Leopold',
+    'desktop' => 'D10.17',
+    'phone' => '+41 26 429 66 64',
+    'email' => 'sebastian.leopold@hefr.ch',
+  ),
+  53 => 
+  array (
+    'teacher_id' => '1919',
+    'name' => 'Christian Nellen',
+    'desktop' => 'E00.08',
+    'phone' => '+41 26 429 68 46',
+    'email' => 'christian.nellen@hefr.ch',
+  ),
+  54 => 
+  array (
+    'teacher_id' => '1920',
+    'name' => 'Nicolas Rouvé',
+    'desktop' => 'E00.08',
+    'phone' => '+41 26 429 69 30',
+    'email' => 'nicolas.rouve@hefr.ch',
+  ),
+  55 => 
+  array (
+    'teacher_id' => '1921',
+    'name' => 'Thierry Ursenbacher',
+    'desktop' => 'D10.17',
+    'phone' => '+41 26 429 66 63',
+    'email' => 'thierry.ursenbacher@hefr.ch',
+  ),
+  56 => 
+  array (
+    'teacher_id' => '1922',
+    'name' => 'Emmanuel Viennet',
+    'desktop' => 'E00.08',
+    'phone' => '+41 26 429 66 70',
+    'email' => 'emmanuel.viennet@hefr.ch',
+  ),
+  57 => 
+  array (
+    'teacher_id' => '1967',
+    'name' => 'Jean-Frédéric Wagen',
+    'desktop' => 'C10.07',
+    'phone' => '+41 26 429 65 53',
+    'email' => 'jean-frederic.wagen@hefr.ch',
+  ),
+  58 => 
+  array (
+    'teacher_id' => '1970',
+    'name' => 'Jacques Robadey',
+    'desktop' => 'C10.07',
+    'phone' => '+41 26 429 67 53',
+    'email' => 'jacques.robadey@hefr.ch',
+  ),
+  59 => 
+  array (
+    'teacher_id' => '2008',
+    'name' => 'Nicolas Schroeter',
+    'desktop' => 'C10.09',
+    'phone' => '+41 26 429 67 51',
+    'email' => 'nicolas.schroeter@hefr.ch',
+  ),
+  60 => 
+  array (
+    'teacher_id' => '2009',
+    'name' => 'Michael Mäder',
+    'desktop' => 'C10.09',
+    'phone' => '',
+    'email' => 'michael.maeder@hefr.ch',
+  ),
+  61 => 
+  array (
+    'teacher_id' => '2011',
+    'name' => 'Rudolf Scheurer',
+    'desktop' => 'C10.19',
+    'phone' => '+41 26 429 65 81',
+    'email' => 'rudolf.scheurer@hefr.ch',
+  ),
+  62 => 
+  array (
+    'teacher_id' => '2035',
+    'name' => 'Fritz Bircher',
+    'desktop' => 'MIC_00_057_iPRINT',
+    'phone' => '+41 26 429 65 66',
+    'email' => 'fritz.bircher@hefr.ch',
+  ),
+  63 => 
+  array (
+    'teacher_id' => '2037',
+    'name' => 'Wolfgang Berns',
+    'desktop' => 'BF_202',
+    'phone' => '+41 26 429 67 75',
+    'email' => 'wolfgang.berns@hefr.ch',
+  ),
+  64 => 
+  array (
+    'teacher_id' => '2038',
+    'name' => 'Dominique Bullot',
+    'desktop' => 'C20.07',
+    'phone' => '+41 26 429 69 47',
+    'email' => 'dominique.bullot@hefr.ch',
+  ),
+  65 => 
+  array (
+    'teacher_id' => '2040',
+    'name' => 'David Cajander',
+    'desktop' => 'C20.05',
+    'phone' => '+41 26 429 65 57',
+    'email' => 'david.cajander@hefr.ch',
+  ),
+  66 => 
+  array (
+    'teacher_id' => '2042',
+    'name' => 'Eric Fragnière',
+    'desktop' => 'C20.21',
+    'phone' => '+41 26 429 69 48',
+    'email' => 'eric.fragniere@hefr.ch',
+  ),
+  67 => 
+  array (
+    'teacher_id' => '2046',
+    'name' => 'Daniel Oberson',
+    'desktop' => 'C20.13',
+    'phone' => '+41 26 429 65 51',
+    'email' => 'daniel.oberson@hefr.ch',
+  ),
+  68 => 
+  array (
+    'teacher_id' => '2048',
+    'name' => 'Ioana Preda',
+    'desktop' => 'C20.11',
+    'phone' => '+41 26 429 65 58',
+    'email' => 'ioana.preda@hefr.ch',
+  ),
+  69 => 
+  array (
+    'teacher_id' => '2049',
+    'name' => 'Dominique Rolle',
+    'desktop' => 'C20.09',
+    'phone' => '+41 26 429 67 36',
+    'email' => 'dominique.rolle@hefr.ch',
+  ),
+  70 => 
+  array (
+    'teacher_id' => '2050',
+    'name' => 'André Rotzetta',
+    'desktop' => 'C20.05',
+    'phone' => '+41 26 429 65 64',
+    'email' => 'andre.rotzetta@hefr.ch',
+  ),
+  71 => 
+  array (
+    'teacher_id' => '2051',
+    'name' => 'Roland Scherwey',
+    'desktop' => 'C20.15',
+    'phone' => '+41 26 429 65 90',
+    'email' => 'roland.scherwey@hefr.ch',
+  ),
+  72 => 
+  array (
+    'teacher_id' => '2053',
+    'name' => 'Philippe Joye',
+    'desktop' => 'D20.07',
+    'phone' => '+41 26 429 65 61',
+    'email' => 'philippe.joye@hefr.ch',
+  ),
+  73 => 
+  array (
+    'teacher_id' => '2054',
+    'name' => 'Pietro Buccella',
+    'desktop' => 'C20.13',
+    'phone' => '+41 26 429 65 63',
+    'email' => 'pietro.buccella@hefr.ch',
+  ),
+  74 => 
+  array (
+    'teacher_id' => '2055',
+    'name' => 'Marco Mazza',
+    'desktop' => '',
+    'phone' => '+41 26 429 65 59',
+    'email' => 'marco.mazza@hefr.ch',
+  ),
+  75 => 
+  array (
+    'teacher_id' => '2056',
+    'name' => 'Patrick Bovey',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'patrick.bovey@hefr.ch',
+  ),
+  76 => 
+  array (
+    'teacher_id' => '2057',
+    'name' => 'Jacques Monnard',
+    'desktop' => 'G00.16',
+    'phone' => '+41 26 429 65 68',
+    'email' => 'jacques.monnard@hefr.ch',
+  ),
+  77 => 
+  array (
+    'teacher_id' => '2059',
+    'name' => 'Michael Ansorge',
+    'desktop' => 'C20.07',
+    'phone' => '+41 26 429 69 51',
+    'email' => 'michael.ansorge@hefr.ch',
+  ),
+  78 => 
+  array (
+    'teacher_id' => '2060',
+    'name' => 'Yves Birbaum',
+    'desktop' => 'G10.12',
+    'phone' => '+41 26 429 65 72',
+    'email' => 'yves.birbaum@hefr.ch',
+  ),
+  79 => 
+  array (
+    'teacher_id' => '2062',
+    'name' => 'Moncef Justin Lalou',
+    'desktop' => 'C20.11',
+    'phone' => '+41 26 429 65 94',
+    'email' => 'moncef.lalou@hefr.ch',
+  ),
+  80 => 
+  array (
+    'teacher_id' => '2063',
+    'name' => 'Lorenzo Pirrami',
+    'desktop' => '',
+    'phone' => '+41 26 429 69 10',
+    'email' => 'Lorenzo.Pirrami@hefr.ch',
+  ),
+  81 => 
+  array (
+    'teacher_id' => '2070',
+    'name' => 'Christophe Allemann',
+    'desktop' => 'B10.09',
+    'phone' => '+41 26 429 67 97',
+    'email' => 'christophe.allemann@hefr.ch',
+  ),
+  82 => 
+  array (
+    'teacher_id' => '2071',
+    'name' => 'Véronique Breguet Mercier',
+    'desktop' => 'H00.17',
+    'phone' => '+41 26 429 69 76',
+    'email' => 'veronique.breguetmercier@hefr.ch',
+  ),
+  83 => 
+  array (
+    'teacher_id' => '2072',
+    'name' => 'Thierry Chappuis',
+    'desktop' => 'H10.17',
+    'phone' => '+41 26 429 67 14',
+    'email' => 'thierry.chappuis@hefr.ch',
+  ),
+  84 => 
+  array (
+    'teacher_id' => '2073',
+    'name' => 'Michal Dabros',
+    'desktop' => 'H10.17',
+    'phone' => '+41 26 429 68 79',
+    'email' => 'michal.dabros@hefr.ch',
+  ),
+  85 => 
+  array (
+    'teacher_id' => '2074',
+    'name' => 'Ludovic Gremaud',
+    'desktop' => 'B20.19',
+    'phone' => '+41 26 429 68 06',
+    'email' => 'ludovic.gremaud@hefr.ch',
+  ),
+  86 => 
+  array (
+    'teacher_id' => '2075',
+    'name' => 'Olivier Vorlet',
+    'desktop' => 'B20.03',
+    'phone' => '+41 26 429 67 09',
+    'email' => 'olivier.vorlet@hefr.ch',
+  ),
+  87 => 
+  array (
+    'teacher_id' => '2076',
+    'name' => 'Jean-Daniel Faessler',
+    'desktop' => '',
+    'phone' => '',
+    'email' => 'jean-daniel.faessler@hefr.ch',
+  ),
+  88 => 
+  array (
+    'teacher_id' => '2077',
+    'name' => 'Stefan Hengsberger',
+    'desktop' => 'C30.05',
+    'phone' => '+41 26 429 67 23',
+    'email' => 'stefan.hengsberger@hefr.ch',
+  ),
+  89 => 
+  array (
+    'teacher_id' => '2078',
+    'name' => 'Pascal Bovet',
+    'desktop' => 'D10.09',
+    'phone' => '+41 26 429 66 56',
+    'email' => 'pascal.bovet@hefr.ch',
+  ),
+  90 => 
+  array (
+    'teacher_id' => '2079',
+    'name' => 'Laurent Donato',
+    'desktop' => 'D10.09',
+    'phone' => '+41 26 429 66 77',
+    'email' => 'laurent.donato@hefr.ch',
+  ),
+  91 => 
+  array (
+    'teacher_id' => '2080',
+    'name' => 'Raymond Riess',
+    'desktop' => 'E00.08',
+    'phone' => '+41 26 429 69 65',
+    'email' => 'raymond.riess@hefr.ch',
+  ),
+  92 => 
+  array (
+    'teacher_id' => '2081',
+    'name' => 'Malick Kane',
+    'desktop' => 'D10.03',
+    'phone' => '+41 26 429 68 42',
+    'email' => 'malick.kane@hefr.ch',
+  ),
+  93 => 
+  array (
+    'teacher_id' => '2084',
+    'name' => '',
+    'desktop' => '',
+    'phone' => '',
+    'email' => '',
+  ),
+  94 => 
+  array (
+    'teacher_id' => '2087',
+    'name' => 'Pascale Voirin',
+    'desktop' => 'D30.03',
+    'phone' => '+41 26 429 67 22',
+    'email' => 'pascale.voirin@hefr.ch',
+  ),
+  95 => 
+  array (
+    'teacher_id' => '2088',
+    'name' => 'Daia Zwicky',
+    'desktop' => 'D40.03',
+    'phone' => '+41 26 429 69 50',
+    'email' => 'daia.zwicky@hefr.ch',
+  ),
+  96 => 
+  array (
+    'teacher_id' => '2089',
+    'name' => 'Richard Baltensperger',
+    'desktop' => 'D30.19',
+    'phone' => '+41 26 429 69 72',
+    'email' => 'richard.baltensperger@hefr.ch',
+  ),
+  97 => 
+  array (
+    'teacher_id' => '2090',
+    'name' => 'Pascal Bruegger',
+    'desktop' => 'D20.17',
+    'phone' => '+41 26 429 69 34',
+    'email' => 'pascal.bruegger@hefr.ch',
+  ),
+  98 => 
+  array (
+    'teacher_id' => '2091',
+    'name' => 'Jean-Roland Schuler',
+    'desktop' => 'C10.11',
+    'phone' => '+41 26 429 65 54',
+    'email' => 'jean-roland.schuler@hefr.ch',
+  ),
+  99 => 
+  array (
+    'teacher_id' => '2092',
+    'name' => 'Mylène Devaux',
+    'desktop' => 'D40.13',
+    'phone' => '+41 26 429 66 83',
+    'email' => 'mylene.devaux@hefr.ch',
+  ),
+  100 => 
+  array (
+    'teacher_id' => '2093',
+    'name' => 'Marlise Colloud',
+    'desktop' => 'C30.21',
+    'phone' => '+41 26 429 67 37',
+    'email' => 'marlise.colloud@hefr.ch',
+  ),
+  101 => 
+  array (
+    'teacher_id' => '2095',
+    'name' => 'Elena Mugellini',
+    'desktop' => 'D20.17',
+    'phone' => '+41 26 429 68 70',
+    'email' => 'elena.mugellini@hefr.ch',
+  ),
+  102 => 
+  array (
+    'teacher_id' => '2096',
+    'name' => 'Patrick Gaillet',
+    'desktop' => 'C10.03',
+    'phone' => '+41 26 429 65 71',
+    'email' => 'patrick.gaillet@hefr.ch',
+  ),
+  103 => 
+  array (
+    'teacher_id' => '2097',
+    'name' => 'Jean Hennebert',
+    'desktop' => 'D20.05',
+    'phone' => '+41 26 429 65 96',
+    'email' => 'jean.hennebert@hefr.ch',
+  ),
+  104 => 
+  array (
+    'teacher_id' => '2098',
+    'name' => 'Andreas Fischer',
+    'desktop' => 'C10.09',
+    'phone' => '+41 26 429 67 34',
+    'email' => 'andreas.fischer@hefr.ch',
+  ),
+  105 => 
+  array (
+    'teacher_id' => '2099',
+    'name' => 'Patrick Favre-Perrod',
+    'desktop' => 'C20.09',
+    'phone' => '+41 26 429 65 88',
+    'email' => 'patrick.favre-perrod@hefr.ch',
+  ),
+)

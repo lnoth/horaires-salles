@@ -79,7 +79,7 @@ foreach ($roomTable as $keyRoomTable=>$elementRoomTable){
             foreach ($element->getElementsByTagName('td') as $key2=>$element2) {
                 // echo  $key2 . htmlspecialchars($element2->ownerDocument->saveXML($element2)) . "<br><br>";
                 $tempInsertElement = $element2->nodeValue;
-                switch ($key2){
+                switch ($key2) {
                     case 0:
                         if ($tempInsertElement != "") {
                             $tempStockedDay = $tempInsertElement;
@@ -92,6 +92,14 @@ foreach ($roomTable as $keyRoomTable=>$elementRoomTable){
                         break;
                     case 2:
                         $tdTable["Cours"] = remove_spaces($tempInsertElement);
+                        break;
+                    case 3:
+                        $tempInsertElement = str_replace(chr(194), ' ', $tempInsertElement);
+                        $tdTable["Classe"] = remove_spaces($tempInsertElement);
+                        break;
+                    case 4:
+                        $tempInsertElement = str_replace(chr(194), ' ', $tempInsertElement);
+                        $tdTable["Prof"] = remove_spaces($tempInsertElement);
                         break;
                 }
             }

@@ -3,7 +3,7 @@
 include('connect.php');
 
 $data = array();
-eval('$data = ' . file_get_contents('http://localhost/horaires-salles/raw_data.txt') . ';');
+eval('$data = ' . file_get_contents('raw_data.txt') . ';');
 
 $days = array();
 foreach($bdd->query('SELECT weekday_id, name_fr FROM weekdays') as $result) {
@@ -24,6 +24,16 @@ foreach($bdd->query('SELECT room_id, name FROM rooms') as $result) {
 $courses = array();
 foreach($bdd->query('SELECT course_id, name FROM courses') as $result) {
     $courses[$result['name']] = intval($result['course_id']);
+}
+
+$classes = array();
+foreach($bdd->query('SELECT class_id, name FROM classes') AS $result) {
+    $classes[$result['name']] = intval($result['class_id']);
+}
+
+$teachers = array();
+foreach($bdd->query('SELECT teacher_id, acronym FROM teachers') AS $result) {
+    $teachers[$result['acronym']] = intval($result['teacher_id']);
 }
 
 function get_timeslot_data($timeslot) {
@@ -55,6 +65,8 @@ function find_timeslot_id($timeslot_data) {
 
 $registrations = array();
 $timeslots_registrations = array();
+$timeslots_classes = array();
+$timeslots_teachers = array();
 $reg_id = 0;
 
 foreach($data as $r) {
@@ -70,6 +82,20 @@ foreach($data as $r) {
         array_push($timeslots_registrations, array(
             'registration_id' => $reg_id,
             'timeslot_id' => find_timeslot_id(get_timeslot_data($timeslot))
+        ));
+    }
+
+    foreach(explode(' ', $r['Prof']) as $prof) {
+        array_push($timeslots_teachers, array(
+            'registration_id' => $reg_id,
+            'teacher_id' => $teachers[$prof]
+        ));
+    }
+
+    foreach(explode(' ', $r['Classe']) as $classe) {
+        array_push($timeslots_classes, array(
+            'registration_id' => $reg_id,
+            'class_id' => $classes[$classe]
         ));
     }
 }
@@ -104,6 +130,33 @@ foreach ($timeslots_registrations as $key=>$tr) {
 $bdd->query('DELETE FROM timeslots_registrations');
 $bdd->prepare($tr_query)->execute($tr_simple_array);
 
+// update timeslots_classes in db
+$tc_query = 'INSERT INTO timeslots_classes(class_id, registration_id) VALUES ';
+$tc_simple_array = array();
+
+foreach ($timeslots_classes as $key=>$tc) {
+    $tc_query .= '(?, ?)'.(($key == count($timeslots_classes) - 1) ? ';':', ');
+
+    foreach(['class_id', 'registration_id'] as $field) {
+        array_push($tc_simple_array, $tc[$field]);
+    }
+}
+
+$bdd->query('DELETE FROM timeslots_classes');
+$bdd->prepare($tc_query)->execute($tc_simple_array);
 
 
+// update timeslots_teachers in db
+$tt_query = 'INSERT INTO timeslots_teachers(teacher_id, registration_id) VALUES ';
+$tt_simple_array = array();
 
+foreach ($timeslots_teachers as $key=>$tt) {
+    $tt_query .= '(?, ?)'.(($key == count($timeslots_teachers) - 1) ? ';':', ');
+
+    foreach(['teacher_id', 'registration_id'] as $field) {
+        array_push($tt_simple_array, $tt[$field]);
+    }
+}
+
+$bdd->query('DELETE FROM timeslots_teachers');
+$bdd->prepare($tt_query)->execute($tt_simple_array);

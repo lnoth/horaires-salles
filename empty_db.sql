@@ -59,6 +59,12 @@ ALTER TABLE `horaires-salles`.registrations ADD CONSTRAINT fk_registrations_room
 ALTER TABLE `horaires-salles`.timeslots_registrations ADD CONSTRAINT fk_timeslots_registrations FOREIGN KEY ( timeslot_id ) REFERENCES `horaires-salles`.timeslots( timeslot_id ) ON DELETE NO ACTION ON UPDATE NO ACTION;
 ALTER TABLE `horaires-salles`.timeslots_registrations ADD CONSTRAINT fk_timeslots_registrations2 FOREIGN KEY ( registration_id ) REFERENCES `horaires-salles`.registrations( registration_id ) ON DELETE NO ACTION ON UPDATE NO ACTION;
 
+ALTER TABLE `horaires-salles`.timeslots_classes ADD CONSTRAINT fk_timeslots_classes FOREIGN KEY ( class_id ) REFERENCES `horaires-salles`.classes ( class_id ) ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE `horaires-salles`.timeslots_teachers ADD CONSTRAINT fk_timeslots_teachers FOREIGN KEY ( teacher_id ) REFERENCES `horaires-salles`.teachers ( teacher_id ) ON DELETE NO ACTION ON UPDATE NO ACTION;
+
+ALTER TABLE `horaires-salles`.timeslots_classes ADD CONSTRAINT fk_timeslots_classes_registrations FOREIGN KEY ( registration_id ) REFERENCES `horaires-salles`.registrations( registration_id ) ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE `horaires-salles`.timeslots_teachers ADD CONSTRAINT fk_timeslots_teachers_registrations FOREIGN KEY ( registration_id ) REFERENCES `horaires-salles`.registrations( registration_id ) ON DELETE NO ACTION ON UPDATE NO ACTION;
+
 -- rooms
 INSERT INTO `rooms`(`name`, `description`) VALUES
 ("A0006", "Petite salle conférence"),
