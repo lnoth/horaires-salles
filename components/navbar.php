@@ -5,12 +5,12 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Horaire par classe</a>
+            <li class="nav-item">
+                <a class="nav-link" href="index.php">Horaire par classe</a>
             </li>
-            <!--<li class="nav-item">
-                <a class="nav-link" href="#">Disponibilité des salles</a>
-            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="rooms.php">Disponibilité des salles</a>
+            </li><!--
             <li class="nav-item">
                 <a class="nav-link" href="#">Disponibilité des professeurs</a>
             </li>-->
