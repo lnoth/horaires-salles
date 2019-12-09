@@ -5,8 +5,8 @@ class DB extends PDO {
 
     public function __construct() {
         try {
-            parent::__construct('mysql:host=pyme.ch;dbname=horaires-salles;charset=utf8', 'admin_horaires', 'Cs#3jt87');
-            // parent::__construct('mysql:host=localhost;dbname=horaires-salles;charset=utf8', 'root', 'root');
+            // parent::__construct('mysql:host=pyme.ch;dbname=horaires-salles;charset=utf8', 'admin_horaires', 'Cs#3jt87');
+            parent::__construct('mysql:host=localhost;dbname=horaires-salles;charset=utf8', 'root', 'root');
         } catch (Exception $e) {
             die('Error : ' . $e->getMessage());
         }
@@ -18,6 +18,10 @@ class DB extends PDO {
 
     function get_all_classes() {
         return $this->query('SELECT class_id, name FROM classes');
+    }
+
+    function get_all_teachers() {
+        return $this->query('SELECT teacher_id, name, acronym, desktop, phone, email FROM teachers');
     }
 
     function get_timeslots_infos() {
@@ -209,6 +213,86 @@ class DB extends PDO {
                 'room_names' => explode('%;%', $result['room_names']),
                 'timeslots' => $timeslots,
                 'teachers' => $teachers,
+            ));
+        }
+
+        $results['concerned_weekdays'] = $concerned_weekdays;
+        return $results;
+    }
+
+    function get_teachers_timetable($teacherId) {
+        $query = 'SELECT weekday_name,
+               weekday_name_en,
+               weekday_id,
+               registration_id,
+               timeslot_ids,
+               teacher_ids,
+               course_name,
+               course_id,
+               GROUP_CONCAT(DISTINCT rooms_names SEPARATOR \'%;%\') AS room_names,
+               GROUP_CONCAT(DISTINCT classes_names SEPARATOR \'%;%\') AS classes_names
+        FROM
+          (SELECT classes.name AS class_name,
+                  weekdays.name_fr AS weekday_name,
+                  LOWER(weekdays.name_en) AS weekday_name_en,
+                  weekdays.weekday_id AS weekday_id,
+                  registrations.registration_id AS registration_id,
+                  GROUP_CONCAT(DISTINCT timeslots.timeslot_id
+                               ORDER BY timeslots.timeslot_id SEPARATOR \'%;%\') AS timeslot_ids,
+                  GROUP_CONCAT(DISTINCT teachers.teacher_id
+                               ORDER BY teachers.name SEPARATOR \'%;%\') AS teacher_ids,
+                  courses.name AS course_name,
+                  courses.course_id,
+                  GROUP_CONCAT(DISTINCT rooms.name
+                               ORDER BY rooms.room_id SEPARATOR \'%;%\') AS rooms_names,
+                  GROUP_CONCAT(DISTINCT classes.name
+                               ORDER BY classes.class_id SEPARATOR \'%;%\') AS classes_names
+           FROM classes
+           JOIN timeslots_classes ON classes.class_id = timeslots_classes.class_id
+           JOIN timeslots_registrations ON timeslots_registrations.registration_id = timeslots_classes.registration_id
+           JOIN timeslots_teachers ON timeslots_teachers.registration_id = timeslots_classes.registration_id
+           JOIN teachers ON timeslots_teachers.teacher_id = teachers.teacher_id
+           JOIN registrations ON timeslots_classes.registration_id = registrations.registration_id
+           JOIN courses ON registrations.course_id = courses.course_id
+           JOIN rooms ON registrations.room_id = rooms.room_id
+           JOIN timeslots ON timeslots_registrations.timeslot_id = timeslots.timeslot_id
+           JOIN weekdays ON registrations.weekday_id = weekdays.weekday_id
+           WHERE teachers.teacher_id = '. intval($teacherId) .'
+           GROUP BY registrations.registration_id,
+                    rooms.room_id,
+                    classes.class_id) AS r1
+        GROUP BY timeslot_ids
+        ORDER BY weekday_id,
+                 timeslot_ids';
+
+        $timeslots_infos = $this->get_timeslots_infos();
+        $concerned_weekdays = array();
+        $results = array();
+
+        foreach ($this->query($query) as $result) {
+            $timeslots = array();
+            foreach (explode('%;%', $result['timeslot_ids']) as $timeslot_id) {
+                array_push($timeslots, $timeslots_infos['id_'.$timeslot_id]);
+            }
+
+            if (!array_key_exists($result['weekday_name_en'], $concerned_weekdays)) {
+                $concerned_weekdays[$result['weekday_name_en']] = array(
+                    'weekday_id' => intval($result['weekday_id']),
+                    'weekday_name' => $result['weekday_name'],
+                    'weekday_name_en' => $result['weekday_name_en']
+                );
+            }
+
+            array_push($results, array(
+                'classes_names' => explode('%;%', $result['classes_names']),
+                'course_id' => intval($result['course_id']),
+                'course_name' => $result['course_name'],
+                'weekday_id' => intval($result['weekday_id']),
+                'weekday_name' => $result['weekday_name'],
+                'weekday_name_en' => $result['weekday_name_en'],
+                'registrations_ids' => explode('%;%', $result['registrations_ids']),
+                'room_names' => explode('%;%', $result['room_names']),
+                'timeslots' => $timeslots,
             ));
         }
 

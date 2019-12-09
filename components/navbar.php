@@ -10,10 +10,10 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="rooms.php">Disponibilité des salles</a>
-            </li><!--
+            </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Disponibilité des professeurs</a>
-            </li>-->
+                <a class="nav-link" href="teachers.php">Disponibilité des profs</a>
+            </li>
         </ul>
     </div>
 </nav>

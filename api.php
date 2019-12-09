@@ -13,6 +13,9 @@ switch($_GET['action']) {
     case 'get_room_timetable':
         include('components/room_timetable.php');
         break;
+    case 'get_teachers_timetable':
+        include('components/teachers_timetable.php');
+        break;
     default:
         die('Error : action not recognized');
 }
