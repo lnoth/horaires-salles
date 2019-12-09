@@ -10,7 +10,7 @@ if (intval($_GET['roomId']) === 0) {
 $room_timetable = $db->get_room_timetable($_GET['roomId']);
 
 if (count($room_timetable['concerned_weekdays']) === 0) {
-    die('Error : no timetable found for this class');
+    die('Error : no timetable found for this room');
 }
 
 $activeWeekday = intval(date("N", time()));

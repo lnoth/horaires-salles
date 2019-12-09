@@ -5,8 +5,8 @@ class DB extends PDO {
 
     public function __construct() {
         try {
-            // parent::__construct('mysql:host=pyme.ch;dbname=horaires-salles;charset=utf8', 'admin_horaires', 'Cs#3jt87');
-            parent::__construct('mysql:host=localhost;dbname=horaires-salles;charset=utf8', 'root', 'root');
+            parent::__construct('mysql:host=pyme.ch;dbname=horaires-salles;charset=utf8', 'admin_horaires', 'Cs#3jt87');
+            // parent::__construct('mysql:host=localhost;dbname=horaires-salles;charset=utf8', 'root', 'root');
         } catch (Exception $e) {
             die('Error : ' . $e->getMessage());
         }
@@ -67,7 +67,7 @@ class DB extends PDO {
     }
 
     function get_room_timetable($roomId) {
-        $query = 'SELECT GROUP_CONCAT(DISTINCT classes.name
+        $query = 'SELECT * FROM (SELECT GROUP_CONCAT(DISTINCT classes.name
                     ORDER BY classes.class_id SEPARATOR \'%;%\') AS classes_names,
                weekdays.name_fr AS weekday_name,
                LOWER(weekdays.name_en) AS weekday_name_en,
@@ -91,9 +91,8 @@ class DB extends PDO {
         JOIN timeslots ON timeslots_registrations.timeslot_id = timeslots.timeslot_id
         JOIN weekdays ON registrations.weekday_id = weekdays.weekday_id
         WHERE rooms.room_id = '.intval($roomId).'
-        GROUP BY registrations.registration_id
-        ORDER BY weekdays.weekday_id,
-                 timeslots.timeslot_id';
+        GROUP BY registrations.registration_id) r1
+        ORDER BY weekday_id, timeslots_ids';
 
         $timeslots_infos = $this->get_timeslots_infos();
         $teachers_infos = $this->get_teachers_infos();
@@ -257,13 +256,20 @@ class DB extends PDO {
            JOIN rooms ON registrations.room_id = rooms.room_id
            JOIN timeslots ON timeslots_registrations.timeslot_id = timeslots.timeslot_id
            JOIN weekdays ON registrations.weekday_id = weekdays.weekday_id
-           WHERE teachers.teacher_id = '. intval($teacherId) .'
+           WHERE teachers.teacher_id = ' . intval($teacherId) . '
            GROUP BY registrations.registration_id,
                     rooms.room_id,
                     classes.class_id) AS r1
-        GROUP BY timeslot_ids
-        ORDER BY weekday_id,
-                 timeslot_ids';
+        GROUP BY timeslot_ids,
+                 weekday_name,
+                 weekday_name_en,
+                 weekday_id,
+                 registration_id,
+                 timeslot_ids,
+                 teacher_ids,
+                 course_name,
+                 course_id
+        ORDER BY weekday_id, timeslot_ids';
 
         $timeslots_infos = $this->get_timeslots_infos();
         $concerned_weekdays = array();
