@@ -8,18 +8,18 @@
 		<!-- Main page component -->
 		<div class="container mt-3 bg-white">
 			<div class="row align-items-center">
-				<div class="col-sm-6 mx-auto">
+				<div class="col-lg-6 col-md-10 mx-auto">
 					<div class="form-group col text-center mt-3">
 						<h1>Disponibilité des salles</h1>
 					</div>
 					<div class="form-group row mt-3">
-						<!--<label for="weekday_choice" class="col-sm-4 col-form-label">Jour</label>-->
 						<div class="col">
                             <div class="row">
                                 <div class="col-sm mb-3">
                                     <select id="weekday_id" class="form-control">
                                         <?php foreach($db->get_all_weekdays() as $w) { ?>
-                                            <option value="<?= $w['weekday_id'] ?>">
+                                            <option value="<?= $w['weekday_id'] ?>"
+                                            <?= (date('N', time()) === $w['weekday_id'] ? 'selected':'') ?>>
                                                 <?= $w['name_fr'] ?>
                                             </option>
                                         <?php } ?>
@@ -44,7 +44,7 @@
 			</div>
 		</div>
 
-        <div class="modal" id="myModal">
+        <div class="modal fade" id="myModal">
             <div class="modal-dialog">
                 <div class="modal-content">
 
@@ -57,9 +57,9 @@
                     <!-- Modal body -->
                     <div class="modal-body">
                         <div class="alert alert-info text-center">
-                            Cliquez sur la première heure, puis sur la deuxième heure que vous voulez réserver.
+                            Cliquez sur la première heure, puis sur la deuxième heure.
                         </div>
-                        <table class="table table-striped">
+                        <table class="table table-striped mb-0">
                             <tbody>
                             <?php foreach($db->get_timeslots_infos() as $t) { ?>
                                 <tr class="timeslot">
@@ -83,7 +83,7 @@
         </div>
         <div class="row">
             <div class="col"></div>
-            <div id="search_results" class="col-sm-8"></div>
+            <div id="search_results" class="col-sm-8 mb-4"></div>
             <div class="col"></div>
         </div>
         <script src="static/js/rooms_available.js"></script>

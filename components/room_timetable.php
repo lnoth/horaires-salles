@@ -10,10 +10,10 @@ if (intval($_GET['roomId']) === 0) {
 $room_timetable = $db->get_room_timetable($_GET['roomId']);
 
 if (count($room_timetable['concerned_weekdays']) === 0) {
-    die('Error : no timetable found for this room');
+    die('No timetable found for this room');
 }
 
-$activeWeekday = intval(date("N", time()));
+$activeWeekday = intval(date('n', time()));
 $activeWeekdayInList = false;
 while ($activeWeekdayInList === false) {
     foreach($room_timetable['concerned_weekdays'] as $concerned_weekday) {
@@ -29,7 +29,7 @@ while ($activeWeekdayInList === false) {
 }
 
 ?>
-<div class="container mt-3" style="background-color: white">
+<div class="container mt-3 mb-4" style="background-color: white">
     <div class="text-center p-3">
         <ul class="nav justify-content-center nav-tabs" id="myTab" role="tablist">
             <?php

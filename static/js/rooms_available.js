@@ -14,7 +14,8 @@ $(function () {
             $('#rooms_available_search').prop('disabled', true);
         } else {
             if (period_selected.length === 1) {
-                let ts = [timeslot_id, period_selected.attr('id').replace('timeslot_', '')].sort();
+                let ts = [parseInt(timeslot_id), parseInt(period_selected.attr('id').replace('timeslot_', ''))]
+                    .sort(function(a, b) { return a - b; });
 
                 for (let i = ts[0]; i <= ts[1]; i++) {
                     $('#timeslot_' + i).addClass('period_selected');
@@ -46,13 +47,15 @@ $(function () {
         })
             .done(function (result) {
                 if (result.includes('Error : ') && !result.includes('<')) {
-                    $('#search_results').html('<div class="d-flex"><div class="ml-auto mr-auto mt-2 alert alert-danger">' + result + '</div></div>');
+                    $('#search_results').html('<div class="d-flex"><div class="ml-auto mr-auto mt-3 alert alert-danger">' + result + '</div></div>');
+                } else if (!result.includes('<')) {
+                    $('#search_results').html('<div class="d-flex"><div class="ml-auto mr-auto mt-3 alert alert-info">' + result + '</div></div>');
                 } else {
                     $('#search_results').html(result);
                 }
             })
             .fail(function () {
-                $('#search_results').html('<div class="d-flex"><div class="ml-auto mr-auto mt-2 alert alert-danger">Error : results unavailable</div></div>');
+                $('#search_results').html('<div class="d-flex"><div class="ml-auto mr-auto mt-3 alert alert-danger">Error : results unavailable</div></div>');
             });
     });
 });

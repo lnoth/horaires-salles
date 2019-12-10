@@ -24,7 +24,7 @@ if (intval($_GET['timeslotEnd']) === 0) {
 $rooms_available = $db->get_rooms_available($_GET['weekdayId'], $_GET['timeslotStart'], $_GET['timeslotEnd']);
 
 ?>
-<div class="container mt-3" style="background-color: white">
+<div class="container mt-3 mb-4" style="background-color: white">
     <table class="table table-striped table-bordered">
         <thead>
         <tr>

@@ -8,7 +8,7 @@
 		<!-- Main page component -->
 		<div class="container mt-3 bg-white">
 			<div class="row align-items-center">
-				<div class="col-sm-6 mx-auto">
+				<div class="col-lg-6 col-md-10 mx-auto">
 					<div class="form-group col text-center mt-3">
 						<h1>Horaire par classe</h1>
 					</div>
