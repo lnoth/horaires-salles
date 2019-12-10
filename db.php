@@ -24,6 +24,10 @@ class DB extends PDO {
         return $this->query('SELECT teacher_id, name, acronym, desktop, phone, email FROM teachers');
     }
 
+    function get_all_weekdays() {
+        return $this->query('SELECT weekday_id, name_fr, name_de, name_en FROM weekdays');
+    }
+
     function get_timeslots_infos() {
         $query = 'SELECT timeslot_id,
                start_hour,
@@ -37,6 +41,7 @@ class DB extends PDO {
         $results = array();
         foreach ($this->query($query) as $result) {
             $results['id_'.$result['timeslot_id']] = array(
+                'timeslot_id' => $result['timeslot_id'],
                 'start_hour' => $result['start_hour'],
                 'end_hour' => $result['end_hour'],
                 'start_minute' => $result['start_minute'],
@@ -303,6 +308,27 @@ class DB extends PDO {
         }
 
         $results['concerned_weekdays'] = $concerned_weekdays;
+        return $results;
+    }
+
+    function get_rooms_available($weekdayId, $timeslotStart, $timeslotEnd) {
+        $query = 'SELECT name, description FROM rooms
+        WHERE room_id NOT IN
+            (SELECT room_id
+             FROM registrations
+             JOIN timeslots_registrations ON timeslots_registrations.registration_id = registrations.registration_id
+             JOIN timeslots ON timeslots_registrations.timeslot_id = timeslots.timeslot_id
+             WHERE (registrations.weekday_id = '. intval($weekdayId) .' 
+             AND timeslots.timeslot_id BETWEEN '. intval($timeslotStart) .' AND '. intval($timeslotEnd) .'))
+        ORDER BY name';
+
+        $results = array();
+        foreach ($this->query($query) as $result) {
+            array_push($results, array(
+                'name' => $result['name'],
+                'description' => $result['description']
+            ));
+        }
         return $results;
     }
 }

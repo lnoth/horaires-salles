@@ -9,7 +9,10 @@
                 <a class="nav-link" href="index.php">Horaire par classe</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="rooms.php">Disponibilité des salles</a>
+                <a class="nav-link" href="rooms.php">Horaire par salle</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="rooms_available.php">Disponibilité des salles</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="teachers.php">Disponibilité des profs</a>

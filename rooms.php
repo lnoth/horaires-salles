@@ -10,7 +10,7 @@
 			<div class="row align-items-center">
 				<div class="col-sm-6 mx-auto">
 					<div class="form-group col text-center mt-3">
-						<h1>Disponibilité des salles</h1>
+						<h1>Horaire par salle</h1>
 					</div>
 					<div class="form-group row mt-3">
 						<label for="timetable_room_choice" class="col-sm-4 col-form-label">Choix de la salle</label>
