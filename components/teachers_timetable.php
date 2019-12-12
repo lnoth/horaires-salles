@@ -13,7 +13,7 @@ if (count($teachers_timetable['concerned_weekdays']) === 0) {
     die('No timetable found for this teacher');
 }
 
-$activeWeekday = intval(date('n', time()));
+$activeWeekday = intval(date('N', time()));
 $activeWeekdayInList = false;
 while ($activeWeekdayInList === false) {
     foreach($teachers_timetable['concerned_weekdays'] as $concerned_weekday) {
